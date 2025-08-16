@@ -1,2 +1,0 @@
-# ljhventures-landing
-landing page
